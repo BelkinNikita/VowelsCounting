@@ -1,7 +1,7 @@
 # VowelsCounting
 This code counts a number of vowels in a substring of the given length (exircise from the LeetCoode)
 
-k - a string
+s - is a string
 
 
-s - a length
+k - is a length
